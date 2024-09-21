@@ -1,6 +1,6 @@
 <?php
 
-echo "Numan";
+echo "<h1>Numan</h1>";
 
 
 ?>
